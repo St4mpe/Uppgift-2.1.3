@@ -7,7 +7,8 @@
 </head>
 <body>
     <form action="index.php" method="post">
-        <input type="text" name="url" id="url" placeholder="Beskrinving">
+        <input type="text" name="user" id="user" placeholder="Användarnamn">
+        <input type="password" name="pass" id="pass" placeholder="password">
     </form>
 </body>
 </html>
